@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "google-home-notifier": "^1.2.0"
   },
   "devDependencies": {},
